@@ -1,0 +1,13 @@
+{
+  "pluginName": "Toggle Slack DnD",
+  "pluginDescription": "Toggles Slack DnD and set status",
+  "pluginReadMore": "",
+  "protocolVersion": 1,
+  "actions":
+  [
+    {
+      "actionName": "Toggle Slack DnD",
+      "fileName": "toggle-slack-dnd.rb",
+    },
+  ]
+}
